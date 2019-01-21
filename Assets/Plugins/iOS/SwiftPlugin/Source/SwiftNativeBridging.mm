@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <AVFoundation/AVFoundation.h>
 #include "SwiftPlugin-Swift.h"
 
 extern "C" {
